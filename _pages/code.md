@@ -18,7 +18,7 @@ permalink: /code/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-fluid"  width= "300px" style="float: left" />
   <pubtit>{{ publi.acronym }} : {{ publi.title }} <em>{{ publi.conference }}</em></pubtit> 
   <p>{{ publi.description }}</p>
-  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/projects/{{ publi.acronym }}/">Code/Data</a></strong></p>
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/projects/{{ publi.acronym }}/index.html">Code/Data</a></strong></p>
  </div>
 </div>
 
