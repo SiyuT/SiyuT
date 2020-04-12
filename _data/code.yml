@@ -1,0 +1,13 @@
+- title: "Generating 3D People in Scenes without People."
+  acronym: "PSI"
+  conference: CVPR 2020
+  image: YanZhangCVPR2020.jpg
+  description: Person Scene Interaction (PSI) is a fully-automatic system that takes a 3D scene and generates plausible 3D human bodies that are posed naturally in that 3D scene.
+
+
+- title: "Learning to Dress 3D People in Generative Clothing."
+  acronym: "CAPE"
+  conference: CVPR 2020
+  image: QianliMaCVPR.jpg
+  description: We learn a generative 3D mesh model of clothed people from 3D scans with varying pose and clothing. Specifically, we train a conditional Mesh-VAE-GAN to learn the clothing deformation from the SMPL body model, making clothing an additional term on SMPL. Our model is conditioned on both pose and clothing type, giving the ability to draw samples of clothing to dress different body shapes in a variety of styles and poses.
+

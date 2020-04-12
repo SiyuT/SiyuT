@@ -1,0 +1,14 @@
+
+<div class="well">
+<h4>Recent Publications</h4>
+
+{% for article in site.data.publist limit:9 %}
+{{ article.title }}
+<p>{{ article.authors }}<br />
+	<a href='{{ article.link.url }}'>{{ article.link.display }}</a>
+</p>
+{% endfor %}
+
+<h4><a href="{{ site.url }}{{ site.baseurl }}/publications/index.html">... see all Publications</a></h4>
+
+    </div>
