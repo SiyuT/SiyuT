@@ -3,7 +3,7 @@ title: "VLG - PSI"
 layout: textlay
 excerpt: "PSI"
 sitemap: false
-permalink: /projects/PSI
+permalink: /projects/PSI/
 ---
 
 # PSI - Generating 3D People in Scenes without People
