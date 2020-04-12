@@ -54,7 +54,7 @@ Our research interest lies in computer vision and the combination with machine l
 
 **Human-scene Interaction.** Humans constantly interact with the 3D environment around them. To better understand and model the human-scene interactions, we develop fundamental representations, propose novel algorithms and estabilish new benchmarks. 
 
-**Action and Behavior.** Human action understanding is often treated as classification, detection or segmentation tasks, where our goal is to understand the dynamics, intention and causality of human behaviours from visual input. In particular, we are interested in studying human action and behavior in the context of the real-world 3D enviroment.
+**Action and Behavior.** Human action understanding is often treated as classification, detection or segmentation tasks. Our goal is to understand the dynamics, intention and causality of human behaviours from visual input. In particular, we are interested in studying human action and behavior in the context of the real-world 3D enviroment.
 
 **Human Pose Estimation and Tracking.**  We study optimization problems for the task of people pose estimation and tracking in real-world crowded scenes. We also study novel learning techniques that connect combinatorial optimization with convolutional neural networks and blur the boundary between these two model classes.
 
