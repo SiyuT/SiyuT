@@ -8,6 +8,7 @@
   highlight: 1
   news2: <a href="https://vlg.inf.ethz.ch/projects/PSI/"> Code/Data </a> 
   news1: Oral presentation
+  acronym: "PSI"
 
 
 - title: "Learning to Dress 3D People in Generative Clothing"
@@ -18,7 +19,7 @@
     url: https://pure.mpg.de/rest/items/item_3185962/component/file_3185963/content
     display:  CVPR 2020
   highlight: 1
-
+ acronym: "CAPE"
 
 - title: "Learning Multi-Human Optical Flow"
   image: David-IJCV.png
