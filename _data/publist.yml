@@ -19,12 +19,7 @@
     url: https://pure.mpg.de/rest/items/item_3185962/component/file_3185963/content
     display:  CVPR 2020
   highlight: 1
-<<<<<<< HEAD
   acronym: "CAPE"
-
-=======
- acronym: "CAPE"
->>>>>>> c52b3fe31ce059008d7852fb33c41e9cb04da3c8
 
 - title: "Learning Multi-Human Optical Flow"
   image: David-IJCV.png
