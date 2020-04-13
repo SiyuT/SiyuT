@@ -1,14 +1,12 @@
 ---
-title: "VLG - PSI"
+title: "VLG - CAPE"
 layout: textlay
-excerpt: "PSI"
+excerpt: "CAPE"
 sitemap: false
-permalink: /projects/PSI
+permalink: /projects/CAPE/
 ---
 
-# PSI - Generating 3D People in Scenes without People
+# CAPE - Learning to Dress 3D People in Generative Clothing
 
-Project page is under construction.
-
-[Clone from GitHub](https://github.com/yz-cnsdqz/PSI).
+Project/Data/Code can be found [here](https://cape.is.tue.mpg.de).
 
